@@ -17,6 +17,9 @@
    ![alt text](image.png)
    ![alt text](image-1.png)
    ![](image-2.png)
+
+TODO Registry und dienste anpassen dass der service läuft
+TODO automatische IP und dhcp vergabe, dass der raspi internet kriegt
 4. **Verbindung zum Microcontroller testen**
    (Der Raspberry PI sollte eingeschaltet sind und mit dem Patchkabel mit dem Laptop verbunden sein)
     1. **Terminal öffnen**
